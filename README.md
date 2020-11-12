@@ -7,6 +7,8 @@
 
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![R build
+status](https://github.com/ramnathv/test3/workflows/R-CMD-check/badge.svg)](https://github.com/ramnathv/test3/actions)
 <!-- badges: end -->
 
 The goal of test3 is to …
